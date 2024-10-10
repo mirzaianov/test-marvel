@@ -20,17 +20,15 @@ A test project which allows to get information about heroes from Marvel Comics U
 
 ### Installation
 
-A start in the development mode:
-
-    npx create-react-app my-app
-    cd my-app
+    git clone https://github.com/mirzaianov/test-marvel.git
+    cd test-marvel
     npm install
 
-### Execution
+### Execution in Development Mode:
 
     npm start
 
-Vite will start:
+RCA will start:
 
 - frontend server on http://localhost:3000/
 
